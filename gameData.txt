@@ -1,0 +1,11 @@
+ImagePath|Title|StarRating|Category
+/images/rdr2.jpg|Red Dead Redemption 2|5|RPG
+/images/tlou2.jpg|The Last of Us|5|RPG
+/images/gtav.jpg|Grand Theft Auto V|5|RPG
+/images/tlou.jpg|The Last of Us|5|RPG
+/images/.tw3jpg|The Witcher 3: Wild Hunt|4|RPG
+/images/gtasa.jpg|Grand Theft Auto San Andreas|4|RPG
+/images/hl.jpg|Hogwarts Legacy|4|RPG
+/images/uncharted4.jpg|Uncharted 4: A Thiefs End|5|RPG
+/images/fo4.jpg|Fall Out 4|4|RPG
+/images/fc6.jpg|Far Cry 6|3|RPG
